@@ -2,7 +2,7 @@
 
 Blogging Platform REST API
 
-A comprehensive REST API for a blogging platform, built with Spring Boot, Spring Data JPA, JWT, and Hibernate Validator. This project provides a robust backend solution for managing blog posts, users, and authentication.
+A comprehensive REST API for a blogging platform, built with Spring Boot, Spring Data JPA, Spring Security, JWT Authentication and Hibernate Validator. This project provides a robust backend solution for managing blog posts, users, and authentication.
 
 ## Features
 
